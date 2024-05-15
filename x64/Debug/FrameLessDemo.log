@@ -1,0 +1,5 @@
+﻿  uic FrameLessDemo.ui
+  FrameLessDemo.cpp
+  main.cpp
+  moc_FrameLessDemo.cpp
+  FrameLessDemo.vcxproj -> D:\VS2022Project\FrameLessDemo\x64\Debug\FrameLessDemo.exe
